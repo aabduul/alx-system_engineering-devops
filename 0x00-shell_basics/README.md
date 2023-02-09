@@ -1,1 +1,1 @@
-Working dir to users home dir
+Current dir contents in a long format
