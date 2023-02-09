@@ -1,1 +1,1 @@
-Absolute path name of the current working dir
+Content list of your current dir
