@@ -1,1 +1,1 @@
- Delete all files in the current working dir ending with char ~
+Create dir welcome/, welcome/to/ & welcome/to/school
