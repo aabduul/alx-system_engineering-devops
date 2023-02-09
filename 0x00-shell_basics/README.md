@@ -1,1 +1,1 @@
-Content list of your current dir
+Working dir to users home dir
