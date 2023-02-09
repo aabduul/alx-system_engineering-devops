@@ -1,1 +1,1 @@
-Creates a my_first_directory in the /tmp/ dir
+Move betty from /tmp/ to /tmp/my_first_dir
