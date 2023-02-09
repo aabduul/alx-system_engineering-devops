@@ -1,1 +1,1 @@
-Symbolic link to /bin/ls, named _ls_ created in the current working dir
+Copy all HTML files from the current working dir to the parent of the working dir
