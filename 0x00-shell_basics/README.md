@@ -1,1 +1,1 @@
-Current dir contents in a long format
+Current dir contents, hidden files starting with . in long format
