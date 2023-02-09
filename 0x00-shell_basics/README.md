@@ -1,1 +1,1 @@
-Copy all HTML files from the current working dir to the parent of the working dir
+Moves all files starting with an uppercase to the dir /tmp/u
