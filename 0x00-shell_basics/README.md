@@ -1,1 +1,1 @@
-Current dir, long format, user IDs numeriacally, hidden files starting with .
+Creates a my_first_directory in the /tmp/ dir
