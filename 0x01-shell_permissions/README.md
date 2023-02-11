@@ -16,3 +16,4 @@ creates a directory called my_dir with permissions 751 in the working dir
 Changes the group owner to school for the file hello
 Add x to al subdir of the current dir for owner, grp owner & other useres
 changes the owner to vincent and the group owner to staff for all the files and dir
+chown to vincent & group owner to staff for all files & dir
