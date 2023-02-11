@@ -18,3 +18,4 @@ Add x to al subdir of the current dir for owner, grp owner & other useres
 changes the owner to vincent and the group owner to staff for all the files and dir
 chown to vincent & group owner to staff for all files & dir
 Chown & chgrp owner of _hello to vincent and staff
+Chown of hello to betty only if owned by guillaume
