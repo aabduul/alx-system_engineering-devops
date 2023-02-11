@@ -5,3 +5,4 @@ hanges the owner of the file hello to better
 Creates an empty file called hello
 Adds executive permission to the owner of hello
 adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+X permission to owner, grp owner & othrt user to hello
