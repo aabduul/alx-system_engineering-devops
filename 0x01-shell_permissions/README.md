@@ -11,3 +11,4 @@ Sets the mode of the file hello -rwxr-x-wx
 Sets the mode of the file hello the same as olleh’s mode
 Sets the mode of the file hello the same as olleh’s mode
 Add x to al subdir of the current dir for owner, grp owner & other useres
+Add x to al subdir of the current dir for owner, grp owner & other useres
