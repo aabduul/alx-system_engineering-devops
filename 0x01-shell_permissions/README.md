@@ -9,3 +9,4 @@ X permission to owner, grp owner & othrt user to hello
 Sets permission to the file hello
 Sets the mode of the file hello -rwxr-x-wx
 Sets the mode of the file hello the same as olleh’s mode
+Sets the mode of the file hello the same as olleh’s mode
