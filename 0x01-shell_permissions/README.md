@@ -12,3 +12,4 @@ Sets the mode of the file hello the same as olleh’s mode
 Sets the mode of the file hello the same as olleh’s mode
 Add x to al subdir of the current dir for owner, grp owner & other useres
 Add x to al subdir of the current dir for owner, grp owner & other useres
+creates a directory called my_dir with permissions 751 in the working dir
