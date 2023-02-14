@@ -1,1 +1,1 @@
-ls - la into ls_cwd_content
+uplicates the last line of the file iacta
