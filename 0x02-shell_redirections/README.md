@@ -1,1 +1,1 @@
-Shell script that creates a file containing txt Best School
+ls - la into ls_cwd_content
