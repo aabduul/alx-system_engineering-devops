@@ -1,1 +1,1 @@
-Display the third line of the file iacta
+Shell script that creates a file containing txt Best School
