@@ -1,1 +1,1 @@
-Display a confused smiley
+Display content of the /etc/passwd file
